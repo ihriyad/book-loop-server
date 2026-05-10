@@ -133,5 +133,32 @@
     { "value": "40+", "label": "Categories" },
     { "value": "50k+", "label": "Readers" },
     { "value": "Free", "label": "Always" }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is Book Loop?",
+      "answer": "Book Loop is a free platform where you can discover, search, and save books across dozens of categories. Whether you love sci-fi, history, self-help, or fantasy — Book Loop helps you find your next great read without the overwhelm."
+    },
+    {
+      "id": 2,
+      "question": "Is Book Loop completely free to use?",
+      "answer": "Yes, 100% free. There are no hidden charges, no premium tiers, and no subscription fees. Every feature — search, filter, bookmarking, and collections — is available to all users at no cost."
+    },
+    {
+      "id": 3,
+      "question": "How do I search for a book by title or category?",
+      "answer": "Use the search bar at the top of the page and start typing a book title — results appear instantly as you type. To browse by category, open the category drawer and select a genre like Story, Tech, or Science to filter the list."
+    },
+    {
+      "id": 4,
+      "question": "Can I save or bookmark books for later?",
+      "answer": "Absolutely. Hit the bookmark icon on any book card to save it to your personal reading list. Your saved books are stored and accessible whenever you come back, so you never lose track of something you wanted to read."
+    },
+    {
+      "id": 5,
+      "question": "How often are new books added?",
+      "answer": "We add new titles regularly across all categories. The loop never stops — there's always something fresh waiting for you. You can check the 'New Arrivals' section on the home page to see what's been added recently."
+    }
   ]
 }
