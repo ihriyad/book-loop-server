@@ -1,112 +1,137 @@
 {
-    "books": [
-  {
-    "id": 1,
-    "title": "The Hitchhiker's Guide to the Galaxy",
-    "author": "Douglas Adams",
-    "description": "A comedic science fiction series following the misadventures of Arthur Dent, an ordinary human who is whisked away through the universe after Earth is demolished to make way for a hyperspace bypass.",
-    "category": "Story",
-    "available_quantity": 5,
-    "image_url": "https://covers.openlibrary.org/b/id/8739161-L.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-    "author": "Robert C. Martin",
-    "description": "A guide to writing clean, maintainable code. Robert C. Martin presents a paradigm for software craftsmanship, covering principles, patterns, and practices of writing clean code with real-world case studies.",
-    "category": "Tech",
-    "available_quantity": 3,
-    "image_url": "https://covers.openlibrary.org/b/id/8398631-L.jpg"
-  },
-  {
-    "id": 3,
-    "title": "A Brief History of Time",
-    "author": "Stephen Hawking",
-    "description": "An iconic exploration of the universe from the Big Bang to black holes. Stephen Hawking brings complex cosmological concepts to a general audience, questioning the nature of time, space, and the cosmos.",
-    "category": "Science",
-    "available_quantity": 7,
-    "image_url": "https://covers.openlibrary.org/b/id/8739209-L.jpg"
-  },
-  {
-    "id": 4,
-    "title": "1984",
-    "author": "George Orwell",
-    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. Winston Smith struggles against oppression in a world of constant surveillance, propaganda, and the erasure of truth and individuality.",
-    "category": "Story",
-    "available_quantity": 4,
-    "image_url": "https://covers.openlibrary.org/b/id/8575708-L.jpg"
-  },
-  {
-    "id": 5,
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "description": "A timeless guide for software developers covering best practices, philosophies, and tips to become a more effective and pragmatic programmer. Essential reading for both junior and senior developers.",
-    "category": "Tech",
-    "available_quantity": 6,
-    "image_url": "https://covers.openlibrary.org/b/id/8392784-L.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Sapiens: A Brief History of Humankind",
-    "author": "Yuval Noah Harari",
-    "description": "A sweeping history of humanity from the Stone Age to the modern era. Harari explores how Homo sapiens came to dominate Earth through cognitive revolution, agricultural revolution, and scientific revolution.",
-    "category": "Science",
-    "available_quantity": 8,
-    "image_url": "https://covers.openlibrary.org/b/id/8739219-L.jpg"
-  },
-  {
-    "id": 7,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "description": "A Pulitzer Prize-winning novel set in the American South during the 1930s. Seen through the eyes of young Scout Finch, it explores themes of racial injustice, moral growth, and compassion.",
-    "category": "Story",
-    "available_quantity": 2,
-    "image_url": "https://covers.openlibrary.org/b/id/8810138-L.jpg"
-  },
-  {
-    "id": 8,
-    "title": "You Don't Know JS: Scope & Closures",
-    "author": "Kyle Simpson",
-    "description": "A deep dive into the JavaScript language, covering scope, closures, hoisting, and the module pattern. Part of the acclaimed YDKJS series, it helps developers truly understand how JavaScript works under the hood.",
-    "category": "Tech",
-    "available_quantity": 5,
-    "image_url": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
-  },
-  {
-    "id": 9,
-    "title": "The Selfish Gene",
-    "author": "Richard Dawkins",
-    "description": "A groundbreaking work in evolutionary biology that argues genes are the fundamental unit of natural selection. Dawkins introduces the concept of the 'meme' and reshapes how we think about life and evolution.",
-    "category": "Science",
-    "available_quantity": 3,
-    "image_url": "https://covers.openlibrary.org/b/id/8406786-L.jpg"
-  },
-  {
-    "id": 10,
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "description": "A philosophical novel about a young Andalusian shepherd named Santiago who embarks on a journey to find a worldly treasure. Along the way, he discovers the deeper meaning of life and his personal legend.",
-    "category": "Story",
-    "available_quantity": 9,
-    "image_url": "https://covers.openlibrary.org/b/id/8326419-L.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Designing Data-Intensive Applications",
-    "author": "Martin Kleppmann",
-    "description": "A comprehensive guide for engineers building data systems. Covers the principles behind reliable, scalable, and maintainable systems — from databases and distributed systems to data encoding and stream processing.",
-    "category": "Tech",
-    "available_quantity": 4,
-    "image_url": "https://covers.openlibrary.org/b/id/10281458-L.jpg"
-  },
-  {
-    "id": 12,
-    "title": "The Gene: An Intimate History",
-    "author": "Siddhartha Mukherjee",
-    "description": "An exploration of the history and future of genetics, from Gregor Mendel's pea plants to CRISPR gene editing. Mukherjee weaves together science, history, and personal narrative in this landmark work.",
-    "category": "Science",
-    "available_quantity": 6,
-    "image_url": "https://covers.openlibrary.org/b/id/10519865-L.jpg"
-  }
-]
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "description": "A comedic science fiction series following the misadventures of Arthur Dent, an ordinary human who is whisked away through the universe after Earth is demolished to make way for a hyperspace bypass.",
+      "category": "Story",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/id/8739161-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "description": "A guide to writing clean, maintainable code. Robert C. Martin presents a paradigm for software craftsmanship, covering principles, patterns, and practices of writing clean code with real-world case studies.",
+      "category": "Tech",
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/id/8398631-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "description": "An iconic exploration of the universe from the Big Bang to black holes. Stephen Hawking brings complex cosmological concepts to a general audience, questioning the nature of time, space, and the cosmos.",
+      "category": "Science",
+      "available_quantity": 7,
+      "image_url": "https://covers.openlibrary.org/b/id/8739209-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. Winston Smith struggles against oppression in a world of constant surveillance, propaganda, and the erasure of truth and individuality.",
+      "category": "Story",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/id/8575708-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "description": "A timeless guide for software developers covering best practices, philosophies, and tips to become a more effective and pragmatic programmer. Essential reading for both junior and senior developers.",
+      "category": "Tech",
+      "available_quantity": 6,
+      "image_url": "https://covers.openlibrary.org/b/id/8392784-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "description": "A sweeping history of humanity from the Stone Age to the modern era. Harari explores how Homo sapiens came to dominate Earth through cognitive revolution, agricultural revolution, and scientific revolution.",
+      "category": "Science",
+      "available_quantity": 8,
+      "image_url": "https://covers.openlibrary.org/b/id/8739219-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A Pulitzer Prize-winning novel set in the American South during the 1930s. Seen through the eyes of young Scout Finch, it explores themes of racial injustice, moral growth, and compassion.",
+      "category": "Story",
+      "available_quantity": 2,
+      "image_url": "https://covers.openlibrary.org/b/id/8810138-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "You Don't Know JS: Scope & Closures",
+      "author": "Kyle Simpson",
+      "description": "A deep dive into the JavaScript language, covering scope, closures, hoisting, and the module pattern. Part of the acclaimed YDKJS series, it helps developers truly understand how JavaScript works under the hood.",
+      "category": "Tech",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "description": "A groundbreaking work in evolutionary biology that argues genes are the fundamental unit of natural selection. Dawkins introduces the concept of the 'meme' and reshapes how we think about life and evolution.",
+      "category": "Science",
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/id/8406786-L.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about a young Andalusian shepherd named Santiago who embarks on a journey to find a worldly treasure. Along the way, he discovers the deeper meaning of life and his personal legend.",
+      "category": "Story",
+      "available_quantity": 9,
+      "image_url": "https://covers.openlibrary.org/b/id/8326419-L.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "description": "A comprehensive guide for engineers building data systems. Covers the principles behind reliable, scalable, and maintainable systems — from databases and distributed systems to data encoding and stream processing.",
+      "category": "Tech",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/id/10281458-L.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "description": "An exploration of the history and future of genetics, from Gregor Mendel's pea plants to CRISPR gene editing. Mukherjee weaves together science, history, and personal narrative in this landmark work.",
+      "category": "Science",
+      "available_quantity": 6,
+      "image_url": "https://covers.openlibrary.org/b/id/10519865-L.jpg"
+    }
+  ],
+  "features": [
+    {
+      "title": "Curated Collections",
+      "desc": "Browse thousands of books organized by genre, mood, and topic — hand-picked to help you find your next great read."
+    },
+    {
+      "title": "Smart Search",
+      "desc": "Find any book instantly by title, author, or category. Our search adapts as you type."
+    },
+    {
+      "title": "Save & Organize",
+      "desc": "Bookmark your favorites, build reading lists, and track what you've already read."
+    },
+    {
+      "title": "Always Fresh",
+      "desc": "New titles added regularly. The loop never stops — there's always something new waiting for you."
+    }
+  ],
+
+  "stats": [
+    { "value": "10,000+", "label": "Books" },
+    { "value": "40+", "label": "Categories" },
+    { "value": "50k+", "label": "Readers" },
+    { "value": "Free", "label": "Always" }
+  ]
 }
