@@ -2,30 +2,30 @@
   "books": [
     {
       "id": 1,
-      "title": "The Hitchhiker's Guide to the Galaxy",
-      "author": "Douglas Adams",
-      "description": "A comedic science fiction series following the misadventures of Arthur Dent, an ordinary human who is whisked away through the universe after Earth is demolished to make way for a hyperspace bypass.",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "description": "The story of a young boy who discovers on his 11th birthday that he is a wizard. Harry Potter enters Hogwarts School of Witchcraft and Wizardry and begins his journey into the magical world, uncovering the truth about his parents and the dark wizard Voldemort.",
       "category": "Story",
       "available_quantity": 5,
-      "image_url": "https://covers.openlibrary.org/b/id/8739161-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780747532743-L.jpg"
     },
     {
       "id": 2,
-      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "author": "Robert C. Martin",
-      "description": "A guide to writing clean, maintainable code. Robert C. Martin presents a paradigm for software craftsmanship, covering principles, patterns, and practices of writing clean code with real-world case studies.",
-      "category": "Tech",
-      "available_quantity": 3,
-      "image_url": "https://covers.openlibrary.org/b/id/8398631-L.jpg"
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "description": "Harry Potter's second year at Hogwarts brings new terrors. A mysterious creature is attacking students, and Harry keeps hearing a strange voice inside the walls. The Chamber of Secrets has been opened — and the heir of Slytherin has returned.",
+      "category": "Story",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780747538486-L.jpg"
     },
     {
       "id": 3,
-      "title": "A Brief History of Time",
-      "author": "Stephen Hawking",
-      "description": "An iconic exploration of the universe from the Big Bang to black holes. Stephen Hawking brings complex cosmological concepts to a general audience, questioning the nature of time, space, and the cosmos.",
-      "category": "Science",
-      "available_quantity": 7,
-      "image_url": "https://covers.openlibrary.org/b/id/8739209-L.jpg"
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J.K. Rowling",
+      "description": "In his third year, Harry learns that a dangerous prisoner named Sirius Black has escaped from Azkaban and is believed to be coming for him. This installment introduces time travel, new magical creatures, and deeper mysteries about Harry's past.",
+      "category": "Story",
+      "available_quantity": 6,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780747542155-L.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. Winston Smith struggles against oppression in a world of constant surveillance, propaganda, and the erasure of truth and individuality.",
       "category": "Story",
       "available_quantity": 4,
-      "image_url": "https://covers.openlibrary.org/b/id/8575708-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "A timeless guide for software developers covering best practices, philosophies, and tips to become a more effective and pragmatic programmer. Essential reading for both junior and senior developers.",
       "category": "Tech",
       "available_quantity": 6,
-      "image_url": "https://covers.openlibrary.org/b/id/8392784-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "description": "A sweeping history of humanity from the Stone Age to the modern era. Harari explores how Homo sapiens came to dominate Earth through cognitive revolution, agricultural revolution, and scientific revolution.",
       "category": "Science",
       "available_quantity": 8,
-      "image_url": "https://covers.openlibrary.org/b/id/8739219-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
     },
     {
       "id": 7,
@@ -61,25 +61,25 @@
       "description": "A Pulitzer Prize-winning novel set in the American South during the 1930s. Seen through the eyes of young Scout Finch, it explores themes of racial injustice, moral growth, and compassion.",
       "category": "Story",
       "available_quantity": 2,
-      "image_url": "https://covers.openlibrary.org/b/id/8810138-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780061935466-L.jpg"
     },
     {
       "id": 8,
-      "title": "You Don't Know JS: Scope & Closures",
-      "author": "Kyle Simpson",
-      "description": "A deep dive into the JavaScript language, covering scope, closures, hoisting, and the module pattern. Part of the acclaimed YDKJS series, it helps developers truly understand how JavaScript works under the hood.",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "description": "A guide to writing clean, maintainable code. Robert C. Martin presents a paradigm for software craftsmanship, covering principles, patterns, and practices of writing clean code with real-world case studies.",
       "category": "Tech",
-      "available_quantity": 5,
-      "image_url": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
     },
     {
       "id": 9,
       "title": "The Selfish Gene",
       "author": "Richard Dawkins",
-      "description": "A groundbreaking work in evolutionary biology that argues genes are the fundamental unit of natural selection. Dawkins introduces the concept of the 'meme' and reshapes how we think about life and evolution.",
+      "description": "A groundbreaking work in evolutionary biology that argues genes are the fundamental unit of natural selection. Dawkins introduces the concept of the meme and reshapes how we think about life and evolution.",
       "category": "Science",
       "available_quantity": 3,
-      "image_url": "https://covers.openlibrary.org/b/id/8406786-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780198788607-L.jpg"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "description": "A philosophical novel about a young Andalusian shepherd named Santiago who embarks on a journey to find a worldly treasure. Along the way, he discovers the deeper meaning of life and his personal legend.",
       "category": "Story",
       "available_quantity": 9,
-      "image_url": "https://covers.openlibrary.org/b/id/8326419-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
     },
     {
       "id": 11,
@@ -97,16 +97,88 @@
       "description": "A comprehensive guide for engineers building data systems. Covers the principles behind reliable, scalable, and maintainable systems — from databases and distributed systems to data encoding and stream processing.",
       "category": "Tech",
       "available_quantity": 4,
-      "image_url": "https://covers.openlibrary.org/b/id/10281458-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781449373320-L.jpg"
     },
     {
       "id": 12,
-      "title": "The Gene: An Intimate History",
-      "author": "Siddhartha Mukherjee",
-      "description": "An exploration of the history and future of genetics, from Gregor Mendel's pea plants to CRISPR gene editing. Mukherjee weaves together science, history, and personal narrative in this landmark work.",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "description": "An iconic exploration of the universe from the Big Bang to black holes. Stephen Hawking brings complex cosmological concepts to a general audience, questioning the nature of time, space, and the cosmos.",
       "category": "Science",
+      "available_quantity": 7,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Bermuda Triangle",
+      "author": "Charles Berlitz",
+      "description": "The definitive book on one of the world's greatest mysteries. Charles Berlitz investigates the strange disappearances of ships and aircraft in the Bermuda Triangle region, exploring supernatural theories, underwater civilizations, and unexplained phenomena that have baffled scientists for decades.",
+      "category": "Science",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780380009137-L.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Philadelphia Experiment",
+      "author": "Charles Berlitz & William Moore",
+      "description": "The shocking true story of a secret US Navy experiment in 1943 that allegedly made a warship invisible and teleported it from Philadelphia to Norfolk. A deep dive into one of the most controversial and unexplained events in military history.",
+      "category": "Science",
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780449209684-L.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Chariots of the Gods",
+      "author": "Erich von Däniken",
+      "description": "A groundbreaking and controversial work that proposes ancient aliens visited Earth thousands of years ago and influenced early human civilizations. Von Däniken examines ancient monuments, cave paintings, and myths as evidence of extraterrestrial contact.",
+      "category": "Science",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780425074817-L.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "A Harvard symbologist is drawn into a deadly conspiracy after a murder inside the Louvre reveals a trail of clues hidden in the works of Leonardo da Vinci. A race through secret history, ancient codes, and religious mystery that will change everything you thought you knew.",
+      "category": "Story",
+      "available_quantity": 7,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Inferno",
+      "author": "Dan Brown",
+      "description": "Robert Langdon wakes up in a Florence hospital with no memory of the last 36 hours. Thrust into a world of Dante-inspired symbols and a terrifying biological threat, he must race across Europe to prevent a global catastrophe.",
+      "category": "Story",
+      "available_quantity": 5,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780385537858-L.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The Immortality Key",
+      "author": "Brian C. Muraresku",
+      "description": "A groundbreaking investigation into the secret history of religion and the role of psychedelic ritual in ancient Greece and early Christianity. A 12-year investigation combining archaeology, linguistics, and pharmacology to uncover one of history's greatest secrets.",
+      "category": "Science",
+      "available_quantity": 3,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781250207142-L.jpg"
+    },
+    {
+      "id": 19,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "description": "An in-depth look at the parts of JavaScript that make it an outstanding language, focusing on the best practices to write reliable, maintainable, and efficient code. A must-read for anyone who wants to truly master JavaScript.",
+      "category": "Tech",
       "available_quantity": 6,
-      "image_url": "https://covers.openlibrary.org/b/id/10519865-L.jpg"
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780596517748-L.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Lost Technologies of Ancient Egypt",
+      "author": "Christopher Dunn",
+      "description": "A mechanical engineer examines the extraordinary precision of ancient Egyptian artifacts and monuments, arguing that the tools and techniques used to build them are far beyond what historians have credited to that civilization — pointing to a lost advanced technology.",
+      "category": "Science",
+      "available_quantity": 4,
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781594772481-L.jpg"
     }
   ],
   "features": [
