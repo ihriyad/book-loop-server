@@ -7,7 +7,7 @@
       "description": "The story of a young boy who discovers on his 11th birthday that he is a wizard. Harry Potter enters Hogwarts School of Witchcraft and Wizardry and begins his journey into the magical world, uncovering the truth about his parents and the dark wizard Voldemort.",
       "category": "Story",
       "available_quantity": 5,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780747532743-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/fa/8c/80/fa8c80b1695d091d62efef11ef07d9de.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "description": "Harry Potter's second year at Hogwarts brings new terrors. A mysterious creature is attacking students, and Harry keeps hearing a strange voice inside the walls. The Chamber of Secrets has been opened — and the heir of Slytherin has returned.",
       "category": "Story",
       "available_quantity": 4,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780747538486-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/8e/05/e1/8e05e166cc2a9488c8c046e9735be786.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "description": "In his third year, Harry learns that a dangerous prisoner named Sirius Black has escaped from Azkaban and is believed to be coming for him. This installment introduces time travel, new magical creatures, and deeper mysteries about Harry's past.",
       "category": "Story",
       "available_quantity": 6,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780747542155-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/6e/83/c5/6e83c5c64213db019584ed5d86089e6d.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "A dystopian novel set in a totalitarian society ruled by Big Brother. Winston Smith struggles against oppression in a world of constant surveillance, propaganda, and the erasure of truth and individuality.",
       "category": "Story",
       "available_quantity": 4,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/6f/cf/76/6fcf76874ffe4ba02a7c23fac931d17c.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "A timeless guide for software developers covering best practices, philosophies, and tips to become a more effective and pragmatic programmer. Essential reading for both junior and senior developers.",
       "category": "Tech",
       "available_quantity": 6,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/a3/0a/2e/a30a2e5f687d427f23175c5725321804.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "description": "A sweeping history of humanity from the Stone Age to the modern era. Harari explores how Homo sapiens came to dominate Earth through cognitive revolution, agricultural revolution, and scientific revolution.",
       "category": "Science",
       "available_quantity": 8,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/d4/7d/89/d47d89f5aff3ad205e8d6db97aa879cc.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "description": "A Pulitzer Prize-winning novel set in the American South during the 1930s. Seen through the eyes of young Scout Finch, it explores themes of racial injustice, moral growth, and compassion.",
       "category": "Story",
       "available_quantity": 2,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780061935466-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/99/77/99/99779989885c5d7e334a11a8d38af40e.jpg"
     },
     {
       "id": 8,
@@ -88,7 +88,7 @@
       "description": "A philosophical novel about a young Andalusian shepherd named Santiago who embarks on a journey to find a worldly treasure. Along the way, he discovers the deeper meaning of life and his personal legend.",
       "category": "Story",
       "available_quantity": 9,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/2f/21/9b/2f219ba8a4a999a76a60eecbc8eb9372.jpg"
     },
     {
       "id": 11,
@@ -106,7 +106,7 @@
       "description": "An iconic exploration of the universe from the Big Bang to black holes. Stephen Hawking brings complex cosmological concepts to a general audience, questioning the nature of time, space, and the cosmos.",
       "category": "Science",
       "available_quantity": 7,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780553380163-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/49/f8/04/49f804882555419fd3d6b8cf363fcf0c.jpg"
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "description": "The definitive book on one of the world's greatest mysteries. Charles Berlitz investigates the strange disappearances of ships and aircraft in the Bermuda Triangle region, exploring supernatural theories, underwater civilizations, and unexplained phenomena that have baffled scientists for decades.",
       "category": "Science",
       "available_quantity": 5,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780380009137-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/06/94/48/0694484cd43b605ea1298059be39c775.jpg"
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "description": "The shocking true story of a secret US Navy experiment in 1943 that allegedly made a warship invisible and teleported it from Philadelphia to Norfolk. A deep dive into one of the most controversial and unexplained events in military history.",
       "category": "Science",
       "available_quantity": 3,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780449209684-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/93/32/8d/93328d16730db2584e49062c63c239fd.jpg"
     },
     {
       "id": 15,
@@ -160,7 +160,7 @@
       "description": "A groundbreaking investigation into the secret history of religion and the role of psychedelic ritual in ancient Greece and early Christianity. A 12-year investigation combining archaeology, linguistics, and pharmacology to uncover one of history's greatest secrets.",
       "category": "Science",
       "available_quantity": 3,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9781250207142-L.jpg"
+      "image_url": "https://i.pinimg.com/736x/7a/65/39/7a6539814a56150cb4979ec9a12d4300.jpg"
     },
     {
       "id": 19,
@@ -178,7 +178,7 @@
       "description": "A mechanical engineer examines the extraordinary precision of ancient Egyptian artifacts and monuments, arguing that the tools and techniques used to build them are far beyond what historians have credited to that civilization — pointing to a lost advanced technology.",
       "category": "Science",
       "available_quantity": 4,
-      "image_url": "https://covers.openlibrary.org/b/isbn/9781594772481-L.jpg"
+      "image_url": "https://i.pinimg.com/1200x/42/03/94/4203941af473a4da9ccb47be8d9542f6.jpg"
     }
   ],
   "features": [
